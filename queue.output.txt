@@ -1,0 +1,85 @@
+---CIRCULAR QUEUE MENU---
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:1
+Enter value:10
+10 insterted into circular queue.
+
+---CIRCULAR QUEUE MENU---
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:1
+Enter value:20
+20 insterted into circular queue.
+
+---CIRCULAR QUEUE MENU---
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:1
+Enter value:30
+30 insterted into circular queue.
+
+---CIRCULAR QUEUE MENU---
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:1
+Enter value:40
+40 insterted into circular queue.
+
+---CIRCULAR QUEUE MENU---
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:1
+Enter value:50
+50 insterted into circular queue.
+
+---CIRCULAR QUEUE MENU---
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:3
+Circular Queue elements are:
+1020304050
+
+---CIRCULAR QUEUE MENU---
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:2
+10 Deleted from circular queue.
+
+---CIRCULAR QUEUE MENU---
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:2
+20 Deleted from circular queue.
+
+---CIRCULAR QUEUE MENU---
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:3
+Circular Queue elements are:
+304050
+
+---CIRCULAR QUEUE MENU---
+1.Enqueue
+2.Dequeue
+3.Display
+4.Exit
+Enter your choice:4
