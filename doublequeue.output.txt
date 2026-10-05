@@ -1,0 +1,133 @@
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 1
+Enter value: 10
+10 inserted at front.
+
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 1
+Enter value: 20
+20 inserted at front.
+
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 5
+Deque elements are: 20 10
+
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 2
+Enter value: 50
+50 inserted at rear.
+
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 2
+Enter value: 40
+40 inserted at rear.
+
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 5
+Deque elements are: 20 10 50 40
+
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 1
+Enter value: 30
+30 inserted at front.
+
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 5
+Deque elements are: 30 20 10 50 40
+
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 3
+30 deleted from front.
+
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 5
+Deque elements are: 20 10 50 40
+
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 4
+40 deleted from rear.
+
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 5
+Deque elements are: 20 10 50
+
+--- DOUBLE ENDED QUEUE ---
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Display
+6. Exit
+Enter your choice: 6
