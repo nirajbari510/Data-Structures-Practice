@@ -1,0 +1,8 @@
+1. Infix to Postfix
+Enter your choice: 1
+Enter infix expression: A+B*C
+Postfix expression: ABC*+
+2. Postfix to Infix
+Enter your choice: 2
+Enter postfix expression:  A+B*C
+Infix expression: C
