@@ -1,0 +1,8 @@
+Enter the number of elements: 6
+Enter the elements:
+50 40 89 78 39 80
+
+Elements in Ascending Order:
+394050788089
+Elements in Ascending Order:
+394050788089
